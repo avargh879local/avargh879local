@@ -1,0 +1,10 @@
+---
+hotfix_pipelines:
+  mbos-concourse-test-0.0.172:
+    ghe_repo_name: MbosConcourseTest
+    artifact_id: mbos-concourse-test
+    artifact_version: 0.0.172
+  mbos-concourse-test-0.0.178:
+    ghe_repo_name: MbosConcourseTest
+    artifact_id: mbos-concourse-test
+    artifact_version: 0.0.178
